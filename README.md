@@ -1,3 +1,4 @@
 # python-projects
 
-this is my first github project
+this repo holds all of my python projects
+alot of these are simple scirpts because im a beginner
